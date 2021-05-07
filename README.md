@@ -14,11 +14,11 @@
 <img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/android-studio-screen.jpg" />
 
 # Screen shots dos testes executados
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426287.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426336.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426441.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426454.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426461.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426473.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426481.png" />
-<img src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426496.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426287.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426336.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426441.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426454.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426461.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426473.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426481.png" />
+<img height="320px" src="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos/blob/main/screenTests/Screenshot_1620426496.png" />
