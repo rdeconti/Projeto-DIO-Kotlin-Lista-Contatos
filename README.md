@@ -11,7 +11,7 @@
 # Lista de contatos
 - Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/viniciusfragelli/listacontatos-bootcamp-kotlin
 - Professor: Vinicius Fragelli
-- Aulas: https://web.digitalinnovation.one/course/desenvolvimento-integrado-de-dados-com-sqlite-no-android/learning/d3b6c33b-97d5-4577-9579-28ec730d4e6b?back=/track/everis-kotlin-developer&bootcamp_id=2e0eb750-2637-4772-9d2a-fb5c997c05cb
+- Aulas: https://web.digitalinnovation.one/course/desenvolvimento-integrado-de-dados-com-sqlite-no-android/learning/d3b6c33b-97d5-4577-9579-28ec730d4e6b?back=/track/rdeconti-kotlin-developer&bootcamp_id=2e0eb750-2637-4772-9d2a-fb5c997c05cb
 
 # Descrição
 
