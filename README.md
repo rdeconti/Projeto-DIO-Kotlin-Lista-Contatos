@@ -1,4 +1,8 @@
-:spiral_calendar: Atualizado em 6 de maio de 2021 :heart:
+<img align="center" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+:spiral_calendar: Atualizado em 5 de maio de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
